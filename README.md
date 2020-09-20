@@ -8,7 +8,7 @@ I did not find this much more challenging than the first FCC project, but findin
 
 When I tried this however, it did not have the desired effect - I added a margin to all of the input, select and label elements - this made the form disjointed and a bit confusing to use. I started to style these elements individually before I realized it would be simpler to have a single class that wrapped each form grouping - it was a nice *Aha!* moment for me.
 
-I was planning on skipping the next two projects in thise course but have decided against it as I feel I may learn something from them - I have from the first two thus far. Additionally, its forcing me to spend time in the terminal using git and setting up projects.
+I was planning on skipping the next two projects in this course but have decided against it as I feel I may learn something from them - I have from the first two thus far. Additionally, its forcing me to spend time in the terminal using git and setting up projects.
 
 Already I have set up a HTML boilerplate to start new projects.
 
